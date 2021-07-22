@@ -1,0 +1,199 @@
+header{
+font-size: 50px;
+overflow:hidden;
+  padding:.1em;
+  margin-right: 10%;
+  margin-left: 10%;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin: 1px;     
+  font-family: "Roboto Mono", sans-serif;
+  font-size: 50px;
+  text-align: center;
+   text-shadow: 2px 2px 5px rgb(22, 14, 1);
+  line-height: 60px;
+  letter-spacing: 5px;
+ color: black ; /* Change the font color*/
+  background-color: #fff8e7;
+  margin: 2px;
+}
+
+h2{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: x-large;
+text-align: center;
+margin-right: 20px;
+margin-left:0%;
+padding: 40px;
+font-weight: normal;
+color: black;
+margin-top: 0%;
+}
+
+ul {
+background-color: #633f23;
+overflow:hidden;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+text-align: right;
+font-weight: bold;
+font-size: large;
+margin-top: 0%;
+margin-bottom: 0%;
+padding: .5em;
+ border-color: black;
+}
+
+li {
+  display: inline;
+}
+
+li a {
+  text-decoration: none;
+  padding: 1em;
+}
+
+
+.container{
+  width:900px;
+  height:500px;
+  margin: 50px;
+  float: right;
+
+}
+
+
+h3{
+  text-align: center;
+  margin-right: 35%;
+padding: 50px;
+font-weight: normal;
+margin-top: 20px;
+}
+ 
+ 
+ accordion-header{
+   text-align: center;
+ }
+
+ .mlk{
+ width:1000px;
+  height:600px;
+  padding: 0px;
+   border: 15px solid #d4d2cf;
+   background-color: black;
+ }
+
+ .genFact {
+  background: w
+  border-color: #633f23;
+  border: 7px solid #633f23;
+  position: relative;
+  padding: 20px;
+
+  font-family:  Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: x-large;
+  text-align: center;
+  line-height: 1.2em;
+ 
+
+}
+
+
+ body{
+   background-color: #ffffff;
+  
+ }
+
+ h4{
+   margin: 20px;
+   text-align: left;
+ }
+
+h5{
+  font-family: "Roboto Mono", sans-serif;
+  font-size: 60px;
+  text-align: center;
+  color: #633f23;
+   text-shadow: 2px 2px 5px rgb(22, 14, 1);
+  line-height: 60px;
+ 
+  margin: 2px;
+}
+
+.accordion-header{
+  accordion: large;
+}
+
+#justiceButton { 
+  margin-top: 5px;
+  background-color: white;
+  color: black;
+  border-radius: 0%;
+  padding: 5px;
+  border: 4px solid #633f23; 
+  box-shadow: 3px 3px rgba(153, 153, 153, 0.753);
+  position: relative;
+  font-weight: bold;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  margin-top: 5px;
+  border-radius: 0%;
+  font-size: larger;
+}
+
+}
+#justiceButton:active { 	
+top:10px;
+cursor:pointer;
+ }
+
+ .say{
+width: 50px;
+height:  70px;
+ }
+
+ 
+ 
+ 
+ body, html {
+  height: 100%;
+}
+
+
+.parallax {
+  /* The image used */
+  background-image: url("title.png");
+
+  /* Full height */
+  height: 100%; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#mainImages{
+  width: small;
+  height: medium;
+  padding: 30px;
+}
+
+h1{
+  align-text: center;
+  margin-top: 
+  }
+
+ h6{
+justify-content: center;
+background-color: black;
+margin-top: 0%;
+margin-bottom: 0%
+ }
+
+ h7{
+   text-align: center;
+   font-size: large;
+  font-weight: bolder;
+   color: black
+ }
